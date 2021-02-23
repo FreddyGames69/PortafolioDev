@@ -691,7 +691,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #fdf6f6;
 }
 
 .skill-mf .progress {
@@ -703,7 +703,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: orangered;
 }
 .about-info{
   color: #e0e0e0
@@ -753,7 +753,7 @@ a:hover {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: #dd5722;
   opacity: 1;
 }
 .divider-custom {
@@ -892,7 +892,7 @@ a:hover {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: #212121;
   background-clip: padding-box;
   border: 0 solid rgba(0, 0, 0, 0.2);
   border-radius: 0.75rem;
@@ -1323,4 +1323,8 @@ footer .credits a {
 }
 .btn-success:hover{
   border-color: rgb(201, 190, 72);
+}
+
+.back-purple{
+  background-color: #ab47bc !important;
 }
