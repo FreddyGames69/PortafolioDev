@@ -1328,3 +1328,20 @@ footer .credits a {
 .back-purple{
   background-color: #ab47bc !important;
 }
+.portfolio-item{
+  text-align: center;
+  background-color: #212121;
+  padding: 1rem 0 1rem 0;
+}
+.portfolio-item img{
+  width: 10rem;
+  height: 10rem;
+  background-color: #fff;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.portfolio-modal img{
+  width: 10rem;
+  height: 10rem;
+}
