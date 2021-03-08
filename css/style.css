@@ -1317,6 +1317,9 @@ footer .credits a {
 .back-orange{
   background-color: orangered !important;
 }
+.back-orange:hover{
+  background-color: orangered !important;
+}
 
 .btn-success{
   border-color: palegoldenrod;
@@ -1344,4 +1347,14 @@ footer .credits a {
 .portfolio-modal img{
   width: 10rem;
   height: 10rem;
+}
+
+
+.btn-primary{
+  border-color: #212121;
+
+}
+.btn-primary:hover{
+  border-color: #888282;
+  
 }
